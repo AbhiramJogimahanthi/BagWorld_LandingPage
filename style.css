@@ -101,7 +101,7 @@ header.shadow #search-icon{
 
 section{
     padding: 4rem 0 2rem;
-    min-height: 100vh;
+    min-height: 50vh;
 }
 
 .navbar a{
